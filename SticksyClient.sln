@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SticksyClient", "SticksyClient\SticksyClient.csproj", "{6A050289-85E4-48A1-B453-02B5D19036E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SticksyProtocol", "..\SticksyProtocol-master\SticksyProtocol\SticksyProtocol.csproj", "{C0D22C77-DAB9-409D-A6BA-5E1825204A54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A050289-85E4-48A1-B453-02B5D19036E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A050289-85E4-48A1-B453-02B5D19036E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A050289-85E4-48A1-B453-02B5D19036E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A050289-85E4-48A1-B453-02B5D19036E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D22C77-DAB9-409D-A6BA-5E1825204A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D22C77-DAB9-409D-A6BA-5E1825204A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D22C77-DAB9-409D-A6BA-5E1825204A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D22C77-DAB9-409D-A6BA-5E1825204A54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CA8201F-19D3-4CB8-BD63-47C8EFE2C32F}
+	EndGlobalSection
+EndGlobal
